@@ -1,12 +1,10 @@
-## Hi there 👋
+# Welcome to the project!
 
-<!--
+GiFz is a decentralized file sharing app specialised for GIFs, originally based on [SilentShare](https://github.com/hackthedev/silentshare-shipping) and uses the [dSyncFiles library](https://www.npmjs.com/package/@hackthedev/dsync-files) which is based on [SilentShare](https://github.com/hackthedev/silentshare-shipping) and [DCTS](https://github.com/hackthedev/dcts-shipping).
 
-**Here are some ideas to get you started:**
+The idea is to create a decentralized GIF sharing service with API to avoid single points of failure. It uses [dSync](https://www.npmjs.com/package/@hackthedev/dsync) for node communication as well as some other libraries from that family, like [dSyncFiles](https://www.npmjs.com/package/@hackthedev/dsync-files), [dSyncIPSec](https://www.npmjs.com/package/@hackthedev/dsync-ipsec) and more.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> [!NOTE]
+>
+> The project is in its very early stages.
+
